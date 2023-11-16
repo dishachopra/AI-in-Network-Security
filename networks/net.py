@@ -5,11 +5,11 @@ st.title("AI in network Security")
 st.header("Data Statistics")
 
 
-image_path = "/Users/disha/Desktop/networks/normalVSattack.png"
+image_path = "/networks/normalVSattack.png"
 
 # Display the image using st.image
 st.image(image_path, caption='Your Image Caption', use_column_width=True)
-image_path1 = "/Users/disha/Desktop/networks/top5attacks.png"
+image_path1 = "/networks/top5attacks.png"
 st.image(image_path1, caption='Your Image Caption', use_column_width=True)
 image_path2 = "/Users/disha/Desktop/networks/noOfrestAttacks.png"
 st.image(image_path2, caption='Your Image Caption', use_column_width=True)
