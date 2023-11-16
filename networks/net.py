@@ -1,7 +1,18 @@
 import streamlit as st
+# Set a black background for the entire app
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: black;
+        color: white;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title("AI in network Security")
-# Assuming you have a downloaded image file path
-#Add heading in middle data statistics
 st.header("Data Statistics")
 
 
