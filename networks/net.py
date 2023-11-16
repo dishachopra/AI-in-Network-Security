@@ -85,7 +85,7 @@ image_paths1 = {
     'Satan': 'networks/FISatan.png',
     'Smurf': 'networks/FIsmurf.png',
     'IPSweep': 'networks/IPSweep.png',
-    'PortSweep': 'networks/[ortSweep].png'
+    'PortSweep': 'networks/portSweep.png'
 }
 
 # Create a selectbox to choose from the available attacks
